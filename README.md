@@ -2,6 +2,8 @@
 Machine Learning project for Loan Acceptance prediction with OneAPI optimization
 Introduction:
 In today's dynamic financial landscape, the ability to predict customer behavior plays a crucial role in making informed decisions. Our machine learning project, "Predicting Loan Acceptance," delves into the realm of consumer banking, aiming to forecast whether a customer is likely to accept a loan offer based on various key features. 
+
+
 ![WhatsApp Image 2024-01-27 at 6 05 40 PM](https://github.com/Gokulnath-A003/Loan_Acceptance_using_ML/assets/114607666/245e3995-a45f-4a6a-8c11-cbcd20193a79)
 
 **Objectives:**
