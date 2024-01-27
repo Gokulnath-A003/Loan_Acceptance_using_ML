@@ -1,8 +1,4 @@
-# Optimized_Loan_Acceptance_Prediction
-
-https://github.com/Gokulnath-A003/Loan_Acceptance_using_ML/assets/114607666/b1a13d3f-5741-4a3b-bb6b-1e8d1f81d27c
-
-_using_ML
+# Optimized_Loan_Acceptance_Prediction_using_ML
 Machine Learning project for Loan Acceptance prediction with OneAPI optimization
 Introduction:
 In today's dynamic financial landscape, the ability to predict customer behavior plays a crucial role in making informed decisions. Our machine learning project, "Predicting Loan Acceptance," delves into the realm of consumer banking, aiming to forecast whether a customer is likely to accept a loan offer based on various key features. 
