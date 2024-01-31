@@ -14,19 +14,19 @@ In today's dynamic financial landscape, the ability to predict customer behavior
 
   The oneAPI AI Analytics Toolkit [1] is implemented using the oneAPI Data Analytics Library (oneDAL), a powerful machine learning library that helps speed up big data analysis. oneDAL is an extension of Intel® Data Analytics Acceleration Library (DAAL) and is a part of oneAPI. oneAPI is a cross-industry, open, standards-based unified programming model that delivers a common developer experience across accelerator architectures.
   
-#**oneAPI Optimization:**
+# **oneAPI Optimization:**
 
   In our relentless pursuit of refining the loan acceptance prediction model, we've seamlessly integrated the k-Nearest Neighbors (kNN) algorithm using the oneAPI oneDAL —an extension of the Intel® Data Analytics Acceleration Library (DAAL). This strategic incorporation of oneDAL elevates the performance of our model, harnessing the power of accelerated computations for efficient kNN operations. By leveraging oneAPI oneDAL, our model not only benefits from enhanced parallel processing capabilities but also signifies our commitment to utilizing cutting-edge technologies for optimal predictive accuracy in the domain of loan acceptance prediction. This integration exemplifies our dedication to staying at the forefront of advancements in data analytics and ensuring that our model operates efficiently and effectively in real-world scenarios.
   
-#**Optimization result:**
+# **Optimization result:**
 
 ![Screenshot (74)](https://github.com/Gokulnath-A003/Loan_Acceptance_using_ML/assets/114607666/dbfa7326-9955-4f29-9ab4-4c5aca9fc51b)
 
-#**Results (Gradio Interface):**
+# **Results (Gradio Interface):**
 
 ![Screenshot (73)](https://github.com/Gokulnath-A003/Loan_Acceptance_using_ML/assets/114607666/b0bd4689-0023-4875-aad8-3d0ee43b6841)
 
-#**About the input features:**
+# **About the input features:**
 
 Experience : #years of professional experience
 Income: Annual income of the customer (thousand dollars)
@@ -37,7 +37,7 @@ Mortgage: Value of house mortgage if any. (thousand dollars)
 Securities Account: Does the customer have a securities account with the bank?
 CD Account: Does the customer have a certificate of deposit (CD) account with the bank?
 
-#**Video explanation of the idea:**
+# **Video explanation of the idea:**
 
 
 https://github.com/Gokulnath-A003/Loan_Acceptance_using_ML/assets/114607666/9e420459-964b-4c4a-8262-4a1dcb778173
