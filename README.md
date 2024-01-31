@@ -28,7 +28,7 @@ In today's dynamic financial landscape, the ability to predict customer behavior
 
 # **About the input features:**
 
-Experience : #years of professional experience
+Experience : years of professional experience</br>
 Income: Annual income of the customer (thousand dollars)
 Family: Family size of the customer
 CCAvg: Avg. spending on credit cards per month (thousand dollars)
