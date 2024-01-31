@@ -9,7 +9,8 @@ In today's dynamic financial landscape, the ability to predict customer behavior
 # Objectives:
 
   The primary goal of this project is to leverage machine learning algorithms to analyze historical data and develop a predictive model that assesses the likelihood of a customer accepting a loan. By understanding the patterns and relationships within the data, our model strives to provide valuable insights for financial institutions seeking to optimize their lending strategies.KNN and Logistic Regression Machine Learning models are uses and KNN produced the higher Accuracy.
-  
+  ![v2-fc0318d073d4eb80b7b5d0f4f4ce2849_180x120](https://github.com/Gokulnath-A003/Loan_Acceptance_using_ML/assets/114607666/400b9db8-725e-4f89-8151-065fd109fd72)
+
 # **oneAPI:**
 
   The oneAPI AI Analytics Toolkit [1] is implemented using the oneAPI Data Analytics Library (oneDAL), a powerful machine learning library that helps speed up big data analysis. oneDAL is an extension of Intel® Data Analytics Acceleration Library (DAAL) and is a part of oneAPI. oneAPI is a cross-industry, open, standards-based unified programming model that delivers a common developer experience across accelerator architectures.
@@ -29,13 +30,13 @@ In today's dynamic financial landscape, the ability to predict customer behavior
 # **About the input features:**
 
 Experience : years of professional experience</br>
-Income: Annual income of the customer (thousand dollars)
-Family: Family size of the customer
-CCAvg: Avg. spending on credit cards per month (thousand dollars)
-Education: Education Level. 1: Undergrad; 2: Graduate; 3: Advanced/Professional
-Mortgage: Value of house mortgage if any. (thousand dollars)
-Securities Account: Does the customer have a securities account with the bank?
-CD Account: Does the customer have a certificate of deposit (CD) account with the bank?
+Income: Annual income of the customer (thousand dollars)</br>
+Family: Family size of the customer</br>
+CCAvg: Avg. spending on credit cards per month (thousand dollars)</br>
+Education: Education Level. 1: Undergrad; 2: Graduate; 3: Advanced/Professional</br>
+Mortgage: Value of house mortgage if any. (thousand dollars)</br>
+Securities Account: Does the customer have a securities account with the bank?</br>
+CD Account: Does the customer have a certificate of deposit (CD) account with the bank?</br>
 
 # **Video explanation of the idea:**
 
