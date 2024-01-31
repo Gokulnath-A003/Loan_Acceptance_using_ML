@@ -24,8 +24,8 @@ In today's dynamic financial landscape, the ability to predict customer behavior
 ![Screenshot (74)](https://github.com/Gokulnath-A003/Loan_Acceptance_using_ML/assets/114607666/dbfa7326-9955-4f29-9ab4-4c5aca9fc51b)
 
 # **Results (Gradio Interface):**
+![Screenshot (77)](https://github.com/Gokulnath-A003/Loan_Acceptance_using_ML/assets/114607666/e1aada1b-d00a-4213-96ec-e2cd87a3c834)
 
-![Screenshot (73)](https://github.com/Gokulnath-A003/Loan_Acceptance_using_ML/assets/114607666/b0bd4689-0023-4875-aad8-3d0ee43b6841)
 
 # **About the input features:**
 
