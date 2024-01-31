@@ -6,7 +6,7 @@ In today's dynamic financial landscape, the ability to predict customer behavior
 
 ![WhatsApp Image 2024-01-27 at 6 05 40 PM](https://github.com/Gokulnath-A003/Loan_Acceptance_using_ML/assets/114607666/245e3995-a45f-4a6a-8c11-cbcd20193a79)
 
-#**Objectives:**
+#**Objectives:**#
 
   The primary goal of this project is to leverage machine learning algorithms to analyze historical data and develop a predictive model that assesses the likelihood of a customer accepting a loan. By understanding the patterns and relationships within the data, our model strives to provide valuable insights for financial institutions seeking to optimize their lending strategies.KNN and Logistic Regression Machine Learning models are uses and KNN produced the higher Accuracy.
   
