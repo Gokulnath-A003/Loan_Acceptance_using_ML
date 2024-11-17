@@ -8,7 +8,7 @@ In today's dynamic financial landscape, the ability to predict customer behavior
 
 # Objectives:
 
-  The primary goal of this project is to leverage machine learning algorithms to analyze historical data and develop a predictive model that assesses the likelihood of a customer accepting a loan. By understanding the patterns and relationships within the data, our model strives to provide valuable insights for financial institutions seeking to optimize their lending strategies.KNN and Logistic Regression Machine Learning models are uses and KNN produced the higher Accuracy.
+  The primary goal of this project is to leverage machine learning algorithms to analyze historical data and develop a predictive model that assesses the likelihood of a customer accepting a loan. By understanding the patterns and relationships within the data, our model strives to provide valuable insights for financial institutions seeking to optimize their lending strategies. Decision tree Machine Learning model are used.
   
   ![v2-fc0318d073d4eb80b7b5d0f4f4ce2849_180x120](https://github.com/Gokulnath-A003/Loan_Acceptance_using_ML/assets/114607666/400b9db8-725e-4f89-8151-065fd109fd72)
 
@@ -18,7 +18,7 @@ In today's dynamic financial landscape, the ability to predict customer behavior
   
 # **oneAPI Optimization:**
 
-  In our relentless pursuit of refining the loan acceptance prediction model, we've seamlessly integrated the k-Nearest Neighbors (kNN) algorithm using the oneAPI oneDAL —an extension of the Intel® Data Analytics Acceleration Library (DAAL). This strategic incorporation of oneDAL elevates the performance of our model, harnessing the power of accelerated computations for efficient kNN operations. By leveraging oneAPI oneDAL, our model not only benefits from enhanced parallel processing capabilities but also signifies our commitment to utilizing cutting-edge technologies for optimal predictive accuracy in the domain of loan acceptance prediction. This integration exemplifies our dedication to staying at the forefront of advancements in data analytics and ensuring that our model operates efficiently and effectively in real-world scenarios.
+  In our relentless pursuit of refining the loan acceptance prediction model, we've seamlessly integrated the Decision tree algorithm using the oneAPI oneDAL —an extension of the Intel® Data Analytics Acceleration Library (DAAL). This strategic incorporation of oneDAL elevates the performance of our model, harnessing the power of accelerated computations for efficient DT operations. By leveraging oneAPI oneDAL, our model not only benefits from enhanced parallel processing capabilities but also signifies our commitment to utilizing cutting-edge technologies for optimal predictive accuracy in the domain of loan acceptance prediction. This integration exemplifies our dedication to staying at the forefront of advancements in data analytics and ensuring that our model operates efficiently and effectively in real-world scenarios.
   
 # **Optimization result:**
 
